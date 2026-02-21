@@ -1,6 +1,15 @@
 # Hello 👋, I'm Srijeeth
 
-A QA Tester transitioning into Backend Development 🚀<br><br><br>🌱 I’m currently learning System Design and Agentic AI<br><br>👨‍💻 I’m currently working as a QA at HCL Tech<br><br>📑 Check out my resume here - <br><br>💻 All of my projects are available on https://github.com/srijee31<br><br>💬 Ask me about manual testing, bugnizer<br><br>📫 Reach out to me at srijeethkssrijeeth@gmail.com<br><br>
+### A QA Tester transitioning into Backend Development 🚀
+
+* 🌱 **Learning:** Python and HTML/CSS
+* 👨‍💻 **Current Role:** QA at [HCL Tech](https://www.hcltech.com/)
+* 📑 **Resume:** [Click here to view my Resume](YOUR_GOOGLE_DRIVE_LINK_HERE)
+* 💻 **Projects:** Check out my work on [GitHub](https://github.com/srijee31)
+* 💬 **Expertise:** Ask me about **Manual Testing**, **Buganizer**, and **ADB/Fastboot**
+* 📫 **Contact:** Reach out via [Email](mailto:srijeethkssrijeeth@gmail.com)
+
+---
 
 
 ## 🌐 Socials:
