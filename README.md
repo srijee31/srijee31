@@ -1,6 +1,6 @@
 # Hello 👋, I'm Srijeeth
 
-### A QA Tester transitioning into Backend Development 🚀
+### A QA Tester  🚀
 
 * 🌱 **Learning:** Python and HTML/CSS
 * 👨‍💻 **Current Role:** QA at [HCL Tech](https://www.hcltech.com/)
