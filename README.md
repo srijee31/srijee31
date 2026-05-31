@@ -2,7 +2,7 @@
 
 ### A QA Tester  🚀
 
-* 🌱 **Learning:** Python and HTML/CSS
+* 🌱 **Learning:** Python selenium and HTML/CSS
 * 👨‍💻 **Current Role:** QA at [HCL Tech](https://www.hcltech.com/)
 * 📑 **Resume:** [Click here to view my Resume](YOUR_GOOGLE_DRIVE_LINK_HERE)
 * 💻 **Projects:** Check out my work on [GitHub](https://github.com/srijee31)
