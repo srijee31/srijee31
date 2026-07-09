@@ -4,7 +4,7 @@
 
 * 🌱 **Learning:** Python selenium and HTML/CSS
 * 👨‍💻 **Current Role:** QA at [HCL Tech](https://www.hcltech.com/)
-* 📑 **Resume:** [Click here to view my Resume](YOUR_GOOGLE_DRIVE_LINK_HERE)
+* 📑 **Resume:** [Click here to view my Resume](https://drive.google.com/file/d/1zBS7FSaMb6863mOVzezNbJmzQx-WHQOh/view?usp=sharing)
 * 💻 **Projects:** Check out my work on [GitHub](https://github.com/srijee31)
 * 💬 **Expertise:** Ask me about **Manual Testing**, **Buganizer**, and **ADB/Fastboot**
 * 📫 **Contact:** Reach out via [Email](mailto:srijeethkssrijeeth@gmail.com)
