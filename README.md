@@ -6,7 +6,7 @@
 * 👨‍💻 **Current Role:** QA at [HCL Tech](https://www.hcltech.com/)
 * 📑 **Resume:** [Resume_Srijeeth](https://drive.google.com/file/d/1zBS7FSaMb6863mOVzezNbJmzQx-WHQOh/view?usp=sharing)
 * 💻 **Projects:** Check out my work on [GitHub](https://github.com/srijee31)
-* 💬 **Expertise:** Ask me about **Manual Testing**, **Buganizer**, and **ADB/Fastboot**
+* 💬 **Expertise:** Ask me about **Manual Testing**, **Buganizer**, and **ADB/Fastboot** **Prompt**
 * 📫 **Contact:** Reach out via [Email](mailto:srijeethkssrijeeth@gmail.com)
 
 ---
